@@ -1,2 +1,2 @@
-# Game-project
+# Pacman Gaming
 Bu
